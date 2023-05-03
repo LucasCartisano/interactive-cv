@@ -1,0 +1,194 @@
+[
+    {
+        "technology": "SQL",
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 14,
+        "realUseInYears": 14
+    },
+    {
+        "technology": "NoSQL",
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 6,
+        "realUseInYears": 2
+    },
+    {
+        "technology": "Advanced Maths",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 18,
+        "realUseInYears": 18
+    },
+    {
+        "technology": "Server Admin",
+        "category": ["Backend", "Full Stack / Developer", "Data Science"],
+        "totalYears": 14,
+        "realUseInYears": 14
+    },
+    {
+        "technology": "Web",
+        "category": ["Backend", "Front End", "Full Stack / Developer"],
+        "totalYears": 16,
+        "realUseInYears": 16
+    },
+    {
+        "technology": "Power BI",
+        "category": ["Data Science", "Data Analyst"],
+        "totalYears": 5,
+        "realUseInYears": 3
+    },
+    {
+        "technology": "Dax",
+        "category": ["Data Science", "Data Analyst"],
+        "totalYears": 5,
+        "realUseInYears": 3
+    },
+    {
+        "technology": "Other Analytics Tools",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Analyst"],
+        "totalYears": 9,
+        "realUseInYears": 9
+    },
+    {
+        "technology": "Machine Learning",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science"],
+        "totalYears": 5,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "AWS",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 10,
+        "realUseInYears": 10
+    },
+    {
+        "technology": "Linux",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 17,
+        "realUseInYears": 17
+    },
+    {
+        "technology": "Excel",
+        "category": ["Data Science", "Data Analyst"],
+        "totalYears": 18,
+        "realUseInYears": 7
+    },
+    {
+        "technology": "Google Analytics",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 12,
+        "realUseInYears": 5
+    },
+    {
+        "technology": "ETL",
+        "category": ["Data Science", "Data Analyst"],
+        "totalYears": 10,
+        "realUseInYears": 10
+    },
+    {
+        "technology": "Google Data Studio",
+        "category": ["Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 3,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "Cloud Computing",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 10,
+        "realUseInYears": 10
+    },
+    {
+        "technology": "Python",
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 5,
+        "realUseInYears": 4
+    },
+    {
+        "technology": "Pandas",
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 3,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "Numpy",
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 3,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "Web Scraping",
+        "category": ["Data Science"],
+        "totalYears": 4,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "JavaScript",
+        "category": ["Backend", "Front End", "Full Stack / Developer"],
+        "totalYears": 14,
+        "realUseInYears": 13
+    },
+    {
+        "technology": "Node.js",
+        "category": ["Backend", "Full Stack / Developer"],
+        "totalYears": 5,
+        "realUseInYears": 2
+    },
+    {
+        "technology": "React",
+        "category": ["Front End", "Full Stack / Developer"],
+        "totalYears": 5,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "Vue.js",
+        "category": ["Front End", "Full Stack / Developer"],
+        "totalYears": 3,
+        "realUseInYears": 3
+    },
+    {
+        "technology": "PHP",
+        "category": ["Backend", "Full Stack / Developer"],
+        "totalYears": 15,
+        "realUseInYears": 15
+    },
+    {
+        "technology": "Laravel",
+        "category": ["Backend", "Full Stack / Developer"],
+        "totalYears": 5,
+        "realUseInYears": 3
+    },
+    {
+        "technology": "HTML",
+        "category": ["Backend", "Front End", "Full Stack / Developer"],
+        "totalYears": 16,
+        "realUseInYears": 16
+    },
+    {
+        "technology": "CSS",
+        "category": ["Backend", "Front End", "Full Stack / Developer"],
+        "totalYears": 15,
+        "realUseInYears": 15
+    },
+    {
+        "technology": "Git",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 5,
+        "realUseInYears": 5
+    },
+    {
+        "technology": "Docker",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 3,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "Electronic / IOT",
+        "category": [],
+        "totalYears": 20,
+        "realUseInYears": 12
+    },
+    {
+        "technology": "Regular expression",
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 12,
+        "realUseInYears": 11
+    }
+]
