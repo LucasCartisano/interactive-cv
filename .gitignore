@@ -1,0 +1,43 @@
+.DS_Store
+node_modules
+/dist
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# archivos de configuración
+.env
+.env.local
+.env.*.local
+.env.*.production
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# archivos generados por el compilador o bundler
+*.js.map
+*.css.map
+*.stylus.cache
+*.svg
+*.png
+*.jpg
+*.gif
+*.ico
+*.woff
+*.woff2
+*.eot
+*.ttf
+
+# archivos generados por editores de código
+.vscode/
+.DS_Store
+.idea/
+*.sublime-workspace
