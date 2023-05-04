@@ -1,5 +1,11 @@
 [
     {
+        "technology": "SSH",
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
+        "totalYears": 15,
+        "realUseInYears": 15
+    },
+    {
         "technology": "SQL",
         "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
         "totalYears": 14,
