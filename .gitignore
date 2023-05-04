@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-/dist
 
 # Editor directories and files
 .idea
@@ -30,11 +29,8 @@ pnpm-debug.log*
 *.png
 *.jpg
 *.gif
-*.ico
-*.woff
-*.woff2
 *.eot
-*.ttf
+
 
 # archivos generados por editores de código
 .vscode/
