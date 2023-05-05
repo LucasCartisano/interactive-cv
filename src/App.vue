@@ -7,7 +7,7 @@
       </div>
       <div class="menu-container">
         <div class="menu-header">
-          <h4>Pick a subject to see my related experience</h4>
+          <h4>Pick a career to see my related experience</h4>
         </div>
         <div class="menu-items">
           <MainMenu :categories="categories" @pick-category="pickCategory" />
