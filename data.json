@@ -132,6 +132,12 @@
         "realUseInYears": 13
     },
     {
+        "technology": "jQuery",
+        "category": ["Front End", "Full Stack / Developer"],
+        "totalYears": 12,
+        "realUseInYears": 10
+    },
+    {
         "technology": "Node.js",
         "category": ["Backend", "Full Stack / Developer"],
         "totalYears": 5,
