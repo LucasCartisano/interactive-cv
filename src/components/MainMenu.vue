@@ -121,7 +121,6 @@ export default {
       button {
         margin: 3px;
         padding: 3px;
-        font-size: 12px;
         border-radius: 0;
       }
     }
