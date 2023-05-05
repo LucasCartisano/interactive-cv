@@ -2,7 +2,7 @@
   <div class="app-container">
     <div class="header">
       <div class="branding-space">
-        <h1 class="title">Welcome to my <span>interactive CV</span></h1>
+        <h1 class="title"><span>Welcome to my</span> <span>interactive CV</span></h1>
         <h3 class="owner"><a href="https://www.linkedin.com/in/lucas-cartisano/" target="_blank">By Lucas Cartisano</a></h3>
       </div>
       <div class="menu-container">
@@ -21,7 +21,7 @@
     </div>
     <Transition>
       <div class="contact" v-show="showContact">
-        <a href="https://www.linkedin.com/in/lucas-cartisano/" target="_blank">Contact me with LinkedIn</a>
+        <a href="https://www.linkedin.com/in/lucas-cartisano/" target="_blank">Contact me on LinkedIn</a>
       </div>
     </Transition>
   </div>
@@ -172,6 +172,7 @@ html, body{
 }
 .branding-space{
   margin: 0.7em 0.7em 0.7em 1.8em;
+  min-width:150px;
 }
 
 .title {
@@ -288,6 +289,12 @@ html, body{
   }
 }
 
+@media screen and (max-width: 480px) {
+  .branding-space{
+    margin: 0.5em;
+    min-width:150px;
+  }
+}
 </style>
 
 

@@ -80,7 +80,7 @@ export default {
           }
         },
         dataLabels: {
-          enabled: !horizontal,
+          enabled: true,
           offsetY: 0,
         },
         colors: ['#3099ca']
@@ -153,8 +153,23 @@ export default {
               }
             },
             dataLabels: {
-              enabled: !horizontal
+              offsetX: horizontal? -3: 0,
             },
+            title: {
+              text: horizontal? 'Experience in Years': '',
+              align: 'center',
+              offsetY: 20,
+            },
+            tooltip: {
+              y: {
+                formatter: function(value) {
+                  if(value != 1){
+                    return value + " Years";
+                  }
+                  return "1 Year";
+                }
+              },
+            }
           })
         }, 10);
       }
