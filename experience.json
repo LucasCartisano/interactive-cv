@@ -202,5 +202,11 @@
         "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
         "totalYears": 12,
         "realUseInYears": 11
+    },
+    {
+        "technology": "Assembly",
+        "category": ["Backend", "Front End", "Full Stack / Developer"],
+        "totalYears": 22,
+        "realUseInYears": 1
     }
 ]

@@ -30,7 +30,7 @@
 <script>
 import MainMenu from './components/MainMenu.vue';
 import MainChart from './components/MainChart.vue';
-import experience from "/data.json";
+import experience from "/experience.json";
 
 const sortedExperience = experience.sort((a, b) => b.realUseInYears - a.realUseInYears);
 
