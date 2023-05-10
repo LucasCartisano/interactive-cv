@@ -1,0 +1,107 @@
+[
+    {
+        "course": "Airflow",
+        "include": ["Python", "Bash"],
+        "category": ["Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Power BI",
+        "include": ["DAX"],
+        "category": ["Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Curso de Complejidad Algorítmica",
+        "include": ["Python"],
+        "category": ["Backend", "Front End", "Full Stack / Developer"]
+    },
+    {
+        "course": "Docker",
+        "include": ["Linux", "Bash"],
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Git",
+        "include": ["Linux", "Bash"],
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Ciencia de Datos con Jupyter Notebooks y Anaconda",
+        "include": ["Linux", "Bash", "Python"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Estadística Computacional con Python",
+        "include": ["Python"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Flask",
+        "include": ["Python"],
+        "category": ["Backend", "Front End", "Full Stack / Developer"]
+    },
+    {
+        "course": " Web Scraping con Python y Xpath",
+        "include": ["Python"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Ingeniería de Datos con Python",
+        "include": ["Python"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Introducción al Despliegue de Aplicaciones",
+        "include": ["Linux", "Bash", "DevOps"],
+        "category": ["Backend", "Front End", "Full Stack / Developer"]
+    },
+    {
+        "course": "Pensamiento Computacional con Python",
+        "include": ["Python"],
+        "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Pensamiento Probabilístico",
+        "include": ["Python"],
+        "category": ["Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Matemáticas para Data Science",
+        "include": ["Python"],
+        "category": ["Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Patrones de Diseño y Buenas Prácticas en PHP",
+        "include": ["PHP"],
+        "category": ["Backend", "Full Stack / Developer"]
+    },
+    {
+        "course": "PostgreSQL",
+        "include": ["Linux", "SQL"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Scrapy",
+        "include": ["Python"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Single Page Applications en Laravel con Inertia y Vue.js",
+        "include": ["PHP", "VueJs", "Javascript", "Laravel"],
+        "category": ["Backend", "Front End", "Full Stack / Developer"]
+    },
+    {
+        "course": "Vue.js: Componentes y Composition API",
+        "include": ["VueJs", "Javascript"],
+        "category": ["Front End", "Full Stack / Developer"]
+    },
+    {
+        "course": "Regresión Lineal con Python",
+        "include": ["Python", "Machine Learning"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    },
+    {
+        "course": "Curso Profesional de Machine Learning con Scikit-Learn",
+        "include": ["Python", "Machine Learning"],
+        "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"]
+    }
+]
