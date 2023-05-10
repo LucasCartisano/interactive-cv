@@ -208,5 +208,11 @@
         "category": ["Backend", "Front End", "Full Stack / Developer"],
         "totalYears": 22,
         "realUseInYears": 1
+    },
+    {
+        "technology": "Wordpress",
+        "category": ["Backend", "Front End", "Full Stack / Developer"],
+        "totalYears": 12,
+        "realUseInYears": 11
     }
 ]
