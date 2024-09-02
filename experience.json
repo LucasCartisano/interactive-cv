@@ -96,6 +96,12 @@
         "realUseInYears": 1
     },
     {
+        "technology": "Airflow",
+        "category": ["Data Science", "Data Analyst"],
+        "totalYears": 1,
+        "realUseInYears": 1
+    },
+    {
         "technology": "Cloud Computing",
         "category": ["Backend", "Front End", "Full Stack / Developer", "Data Science", "Data Analyst"],
         "totalYears": 10,
@@ -105,7 +111,19 @@
         "technology": "Python",
         "category": ["Backend", "Full Stack / Developer", "Data Science", "Data Analyst"],
         "totalYears": 5,
-        "realUseInYears": 4
+        "realUseInYears": 5
+    },
+    {
+        "technology": "Flask",
+        "category": ["Backend", "Full Stack / Developer"],
+        "totalYears": 1,
+        "realUseInYears": 1
+    },
+    {
+        "technology": "Django",
+        "category": ["Backend", "Full Stack / Developer"],
+        "totalYears": 1,
+        "realUseInYears": 1
     },
     {
         "technology": "Pandas",
